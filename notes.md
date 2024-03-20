@@ -33,3 +33,9 @@
    61  git commit -m "Exercise 1"
    62  git push -u origin main
    63  history
+   64 touch notes.md
+   65 git add notes.md
+   66  git commit -m "Added notes.md file and copied commands used in the exercise to it"
+   67  git push
+   68  history
+
