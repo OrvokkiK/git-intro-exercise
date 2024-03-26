@@ -38,7 +38,6 @@
    66  git commit -m "Added notes.md file and copied commands used in the exercise to it"
    67  git push
    68  history
-<<<<<<< HEAD
    69  git clone https://github.com/OrvokkiK/git-intro-exercise.git
    70  cd git-intro-exercise
    71  git init
@@ -47,5 +46,8 @@
    74  2 git status
    75  3 git -b "Orvokki"
    76  4 git checkout -b "Orvokki"
-   77  git push -u origin Orvokki
-   78  git merge main
+   77  git push -u origin Orvokki   78  git merge main
+   73  history
+   74  git add .
+   75   git commit -m "add changes from aino branch to main"
+   76     git chekout main
