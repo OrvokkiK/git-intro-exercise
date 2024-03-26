@@ -39,4 +39,5 @@
    67  git push
    68  history
    69  git init
-   70 joo
+   70  git branch -M jere
+   71  git add .
