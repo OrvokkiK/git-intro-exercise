@@ -42,3 +42,7 @@
    70  cd git-intro-exercise
    71  git init
    72  git checkout -b aino
+   73  history
+   74  git add .
+   75   git commit -m "add changes from aino branch to main"
+   76     git chekout main
