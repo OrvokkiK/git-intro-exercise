@@ -38,4 +38,7 @@
    66  git commit -m "Added notes.md file and copied commands used in the exercise to it"
    67  git push
    68  history
-
+   69  git clone https://github.com/OrvokkiK/git-intro-exercise.git
+   70  cd git-intro-exercise
+   71  git init
+   72  git checkout -b aino
