@@ -38,4 +38,8 @@
    66  git commit -m "Added notes.md file and copied commands used in the exercise to it"
    67  git push
    68  history
+   69  cd git-intro-exercises
+   70  2 git status
+   71  3 git -b "Orvokki"
+   72  4 git checkout -b "Orvokki"
 
