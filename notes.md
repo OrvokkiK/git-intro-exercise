@@ -50,4 +50,6 @@
    73  history
    74  git add .
    75   git commit -m "add changes from aino branch to main"
-   76     git chekout main
+   76     git chekout main   69 git init
+   70 git add .
+   71 git branch -M jere
