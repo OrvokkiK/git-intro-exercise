@@ -38,4 +38,4 @@
    66  git commit -m "Added notes.md file and copied commands used in the exercise to it"
    67  git push
    68  history
-
+   69  git init
